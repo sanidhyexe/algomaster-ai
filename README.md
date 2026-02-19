@@ -83,7 +83,6 @@
 
 ## 🎬 Demo
 <img width="1349" height="684" alt="image" src="https://github.com/user-attachments/assets/5b12853e-795b-4f3f-adea-437b103f40d5" />
-<img width="1349" height="684" alt="image" src="https://github.com/user-attachments/assets/13670002-5a72-4a93-8cc6-5d334ef8d514" />
 
 
 ---
